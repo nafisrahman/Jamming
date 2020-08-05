@@ -1,1 +1,1 @@
-A Website that lets users create a playlist and add it to their spotify account.
+A website that lets users create a playlist and save it to their spotify account
